@@ -39,7 +39,7 @@ body {
 }
 
 .btns {
-    border-color: rgb(52, 55, 56);
+    border-color: rgb(255, 255, 255);
     user-select: none;
     cursor: pointer;
     display:inline-block;
@@ -47,8 +47,7 @@ body {
     padding: .8rem 1rem !important;
     margin: 0 .6rem .6rem 0 !important;
     border-radius: 3rem;
-    border: 1px solid #ffffff;
-    background-color: rgb(52, 55, 56);
+    border: 1px solid rgb(255, 255, 255);;
     text-decoration: none;
     font-size: 1.3rem !important;
     transition: all .3s cubic-bezier(0.42, 0, 0.37, 1.87);
@@ -56,8 +55,7 @@ body {
 
 .btns:hover {
     transform: scale(1.1);
-    background-color: rgb(52, 55, 56);
-    color: #000000;
+    color: #ffffff;
 }
 
 #video-background {
