@@ -47,8 +47,8 @@ body {
     padding: .8rem 1rem !important;
     margin: 0 .6rem .6rem 0 !important;
     border-radius: 3rem;
-    border: 1px solid #ffffff;
-    color: white;
+    border: 1px solid;
+    color: rgb(52, 55, 56);
     text-decoration: none;
     font-size: 1.3rem !important;
     transition: all .3s cubic-bezier(0.42, 0, 0.37, 1.87);
