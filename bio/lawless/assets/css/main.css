@@ -39,6 +39,7 @@ body {
 }
 
 .btns {
+    border-color: rgb(52, 55, 56);
     user-select: none;
     cursor: pointer;
     display:inline-block;
@@ -55,7 +56,7 @@ body {
 
 .btns:hover {
     transform: scale(1.1);
-    background-color: #ffffff;
+    background-color: rgb(52, 55, 56);
     color: #000000;
 }
 
