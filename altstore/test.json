@@ -1,16 +1,16 @@
 {
-    "name": "Cheecky Spotify",
-    "identifier": "com.spotify.app",
+    "name": "UTM Repository",
+    "identifier": "com.utmapp.repos.UTM",
     "subtitle": "Spotify++",
     "website": "https://cosmo-services.lol",
     "tintColor": "#1a2cc2",
     "featuredApps": [
-      "com.spotify.app.SpotifyPlusPlus"
+      "com.utmapp.UTM"
     ],
     "apps": [
       {
         "name": "Spotify++",
-        "bundleIdentifier": "com.spotify.app.SpotifyPlusPlus",
+        "bundleIdentifier": "com.utmapp.UTM",
         "developerName": "Cheecky Dev",
         "localizedDescription": "Spotify++ is a modified version of Spotify that provides additional features such as unlimited skips, no ads, and the ability to download songs for offline listening. Enjoy your music without any interruptions.\n\n\nMore information at https://getutm.app/\n\nFeatures:\n\n• Unlimited Skips\nNo more restrictions on the number of skips.\n• No Ads\nEnjoy your music without any interruptions from ads.\n• Offline Downloads\nDownload your favorite songs and listen offline.\n• High-Quality Audio\nStream and download music in high quality.\n• Custom Themes\nCustomize the look of Spotify++ with different themes.\n• Free and Open Source\nSpotify++ is free and open source.\n• Easy to Use\nSimple and intuitive user interface.",
         "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/EeveeSpotify-4.5-8.9.58.png",
