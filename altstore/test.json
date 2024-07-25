@@ -1,0 +1,36 @@
+{
+    "name": "Cheecky Spotify",
+    "identifier": "com.spotify.app",
+    "subtitle": "Spotify++",
+    "website": "https://cosmo-services.lol",
+    "tintColor": "#1a2cc2",
+    "featuredApps": [
+      "com.spotify.app.SpotifyPlusPlus"
+    ],
+    "apps": [
+      {
+        "name": "Spotify++",
+        "bundleIdentifier": "com.spotify.app.SpotifyPlusPlus",
+        "developerName": "Cheecky Dev",
+        "localizedDescription": "Spotify++ is a modified version of Spotify that provides additional features such as unlimited skips, no ads, and the ability to download songs for offline listening. Enjoy your music without any interruptions.\n\n\nMore information at https://getutm.app/\n\nFeatures:\n\n• Unlimited Skips\nNo more restrictions on the number of skips.\n• No Ads\nEnjoy your music without any interruptions from ads.\n• Offline Downloads\nDownload your favorite songs and listen offline.\n• High-Quality Audio\nStream and download music in high quality.\n• Custom Themes\nCustomize the look of Spotify++ with different themes.\n• Free and Open Source\nSpotify++ is free and open source.\n• Easy to Use\nSimple and intuitive user interface.",
+        "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/EeveeSpotify-4.5-8.9.58.png",
+        "versions": [
+          {
+            "version": "1.6.9",
+            "date": "2024-07-25T04:18:55Z",
+            "localizedDescription": "## Highlights\r\n* Added support for high-quality audio streaming.\r\n* Improved offline download feature.\r\n* Custom themes are now available.\r\n\r\n## Changes (v1.2.3)\r\n* Localization: Updated Japanese.\r\n* Localization: Updated Chinese (Simplified + Traditional).\r\n* Localization: Updated Italian.\r\n* Fixed an issue where the app would crash on startup.\r\n* Improved user interface for better usability.",
+            "minOSVersion": "14.0",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/EeveeSpotify-4.5-8.9.58.ipa",
+            "size": 75497472
+          }
+        ],
+        "subtitle": "Enhanced Spotify Experience",
+        "tintColor": "#FFC300",
+        "screenshotURLs": [
+          "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/EeveeSpotify-4.5-8.9.58\/EeveeSpotify-4.5-8.9.58-0.png"
+        ]
+      }
+    ],
+    "news": []
+  }
+  
